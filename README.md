@@ -89,10 +89,10 @@
 <!-- GitHub stats section with improved alignment -->
 <div align="center">
   <!-- Top languages card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabath-cse22&show_icons=true&locale=en&layout=compact" alt="prabath-cse22" width="335" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabathsamarasinghe&show_icons=true&locale=en&layout=compact" alt="prabath-cse22" width="335" />
   
   <!-- GitHub stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=prabath-cse22&show_icons=true&locale=en" alt="prabath-cse22" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prabathsamarasinghe&show_icons=true&locale=en" alt="prabath-cse22" width="400" />
 </div>
 
 <!-- GitHub streak stats - centered -->
