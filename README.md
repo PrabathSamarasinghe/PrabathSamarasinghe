@@ -96,7 +96,3 @@
 </div>
 
 <!-- GitHub streak stats - centered -->
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabathsamarasinghe" alt="prabath-cse22" width="450" />
-</p>
