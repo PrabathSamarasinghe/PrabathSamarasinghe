@@ -96,6 +96,7 @@
 </div>
 
 <!-- GitHub streak stats - centered -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabathsamarasinghe" alt="prabathsamarasinghe" width="450" />
-</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabathsamarasinghe" alt="prabath-cse22" width="450" />
+</p>
