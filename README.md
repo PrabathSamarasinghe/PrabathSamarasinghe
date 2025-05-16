@@ -30,7 +30,7 @@
       <td>
         <ul align="left">
           <li>📫 Email: <strong>prabhaths2001@gmail.com</strong></li>
-          <li>🌐 Portfolio: <a href="#"><strong>Coming Soon</strong></a></li>
+          <li>🌐 Portfolio: <a href="https://prabhath.pages.dev/"><strong>View</strong></a></li>
         </ul>
       </td>
     </tr>
