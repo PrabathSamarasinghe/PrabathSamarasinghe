@@ -9,54 +9,6 @@
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" alt="focus" />
   <img src="https://img.shields.io/badge/Location-Sri%20Lanka-blue" alt="location" />
 </p>
-<div align="center">
-  <!-- About Me with Contact Info -->
-  <h3>About Me</h3>
-  <p>I'm a passionate full-stack developer with a focus on creating clean, efficient, and user-friendly applications.</p>
-  <table>
-    <tr>
-      <td>
-        <ul align="left">
-          <li>💬 Ask me about <strong>React, MongoDB, MySQL, Node, Express</strong></li>
-          <li>⚡ Fun fact: <strong>I debug with rubber ducks and excessive amounts of coffee</strong></li>
-        </ul>
-      </td>
-      <td>
-        <ul align="left">
-          <li>📫 Email: <strong>prabhaths2001@gmail.com</strong></li>
-          <li>🌐 Portfolio: <a href="#"><strong>Coming Soon</strong></a></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-  <!-- Connect with me section -->
-  <h3>Let's Connect</h3>
-  <a href="https://linkedin.com/in/prabaths-cse22" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.hackerrank.com/kpp_sahodarayo" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="mailto:prabhaths2001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-<!-- Professional Focus -->
-<h3 align="center">Professional Focus</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img width="60" src="https://img.icons8.com/color/96/000000/code-<h1 align="center">Hi 👋, I'm Prabath Samarasinghe</h1>
-<h3 align="center">💻 Full Stack Developer | Problem Solver | Clean Code Enthusiast</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prabathsamarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/prabathsamarasinghe?tab=followers">
-    <img src="https://img.shields.io/github/followers/prabathsamarasinghe?style=social" alt="followers" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" alt="focus" />
-  <img src="https://img.shields.io/badge/Location-Sri%20Lanka-blue" alt="location" />
-</p>
 <!-- Light mode trophy -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
