@@ -46,11 +46,11 @@
 <!-- Recent Projects Section -->
 <h3 align="center">Featured Projects</h3>
 <div align="center">
-  <a href="https://github.com/prabathsamarasinghe/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prabathsamarasinghe&repo=project-1&theme=react" alt="Project 1" />
+  <a href="https://github.com/PrabathSamarasinghe/NextSalesApp.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prabathsamarasinghe&repo=project-1&theme=react" alt="NextSalesApp" />
   </a>
-  <a href="https://github.com/prabathsamarasinghe/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prabathsamarasinghe&repo=project-2&theme=react" alt="Project 2" />
+  <a href="https://github.com/PrabathSamarasinghe/Dewagiri-Tea.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prabathsamarasinghe&repo=project-2&theme=react" alt="Dewagiri-Tea" />
   </a>
 </div>
 <!-- Tech Stack Section with Categorized Tools -->
