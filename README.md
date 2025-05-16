@@ -174,7 +174,7 @@
 <!-- Activity Graph -->
 <h3 align="center">Contribution Overview</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabathsamarasinghe&theme=react-dark&hide_border=true" alt="Activity Graph" width="800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabathsamarasinghe&theme=github-light&hide_border=true" alt="Activity Graph" width="800" />
 </div>
 <!-- Core Skills Section with Light Theme -->
 <h3 align="center">Skills & Technologies</h3>
