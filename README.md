@@ -45,14 +45,52 @@
 <br clear="both">
 <!-- Recent Projects Section -->
 <h3 align="center">Featured Projects</h3>
-<div align="center">
-  <a href="https://github.com/PrabathSamarasinghe/NextSalesApp.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prabathsamarasinghe&repo=project-1&theme=react" alt="NextSalesApp" />
-  </a>
-  <a href="https://github.com/PrabathSamarasinghe/Dewagiri-Tea.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prabathsamarasinghe&repo=project-2&theme=react" alt="Dewagiri-Tea" />
-  </a>
-</div>
+<p align="center">
+  <em>Note: Replace these with links to your actual repositories!</em>
+</p>
+<table align="center">
+  <tr>
+    <td>
+      <h4>🛒 E-commerce Platform</h4>
+      <p>A full-stack e-commerce solution with React frontend and Node.js backend.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </p>
+      <p><a href="#">View Repository</a></p>
+    </td>
+    <td>
+      <h4>📱 Task Management App</h4>
+      <p>A responsive task manager built with React Native and Firebase.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+      </p>
+      <p><a href="#">View Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>🌐 Portfolio Website</h4>
+      <p>Personal portfolio website built with Next.js and Tailwind CSS.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      </p>
+      <p><a href="#">View Repository</a></p>
+    </td>
+    <td>
+      <h4>📊 Data Visualization Dashboard</h4>
+      <p>Interactive dashboard for data analysis using D3.js and Express.</p>
+      <p>
+        <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=white" alt="D3.js" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
+      </p>
+      <p><a href="#">View Repository</a></p>
+    </td>
+  </tr>
+</table>
 <!-- Tech Stack Section with Categorized Tools -->
 <h3 align="center">My Tech Stack</h3>
 <h4 align="center">Frontend</h4>
@@ -151,14 +189,26 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabathsamarasinghe&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="335" />
 </div>
-<!-- Activity Graph -->
+<!-- Contributions Graph -->
+<h3 align="center">Contribution Graph</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabathsamarasinghe&theme=dracula" alt="Contribution Graph" width="800" />
+</p>
+<!-- Current Streak -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prabathsamarasinghe&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophy" width="800" />
+</p>
+<!-- Skills Section - Visually appealing -->
+<h3 align="center">My Skills</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,java,python,typescript,git,docker,aws,figma" alt="Skills" />
+</p>
+<!-- Coding Quote -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabathsamarasinghe&theme=react-dark&hide_border=true" alt="Activity Graph" width="800" />
-</div>
-<!-- Coding Time Stats -->
-<h3 align="center">Weekly Coding Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@prabathsamarasinghe&theme=react&hide_border=true" alt="Wakatime Stats" width="500" />
+  <h3>💭 Coding Philosophy</h3>
+  <blockquote>
+    "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler
+  </blockquote>
 </div>
 <!-- Footer -->
 <div align="center">
