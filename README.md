@@ -171,11 +171,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabathsamarasinghe&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="335" />
 </div>
-<!-- Clean Contribution Calendar -->
+<!-- Activity Graph -->
 <h3 align="center">Contribution Overview</h3>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabathsamarasinghe&theme=github" alt="Contribution Calendar" width="700" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabathsamarasinghe&theme=react-dark&hide_border=true" alt="Activity Graph" width="800" />
+</div>
 <!-- Core Skills Section with Light Theme -->
 <h3 align="center">Skills & Technologies</h3>
 <div align="center">
