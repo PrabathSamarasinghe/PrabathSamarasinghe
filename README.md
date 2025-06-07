@@ -173,7 +173,7 @@
 
 <!-- GitHub Stats - Responsive -->
 <h3 align="center">GitHub Stats</h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 0 auto; max-width: 900px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 0 auto; max-width: 900px;">
   <img src="https://github-readme-stats.vercel.app/api?username=prabathsamarasinghe&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" style="max-width: 100%; min-width: 300px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabathsamarasinghe&theme=default&hide_border=true" alt="GitHub Streak" style="max-width: 100%; min-width: 300px;" />
 </div>
