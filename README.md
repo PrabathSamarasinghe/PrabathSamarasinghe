@@ -60,7 +60,7 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 1000px; margin: 0 auto;">
   <div style="flex: 1; min-width: 300px; max-width: 450px; padding: 15px; border-radius: 8px; background: #f8f9fa; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <h4 align="center">🍃 Dewagiri Tea</h4>
-    <p>Tea factory management system with comprehensive features for production tracking and inventory management.</p>
+    <p align="center">Tea factory management system with comprehensive features for production tracking and inventory management.</p>
     <p align="center">
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -71,7 +71,7 @@
   
   <div style="flex: 1; min-width: 300px; max-width: 450px; padding: 15px; border-radius: 8px; background: #f8f9fa; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <h4 align="center">📊 NextSalesApp</h4>
-    <p>Modern sales management application built with Next.js for efficient transaction tracking and reporting.</p>
+    <p align="center">Modern sales management application built with Next.js for efficient transaction tracking and reporting.</p>
     <p align="center">
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
