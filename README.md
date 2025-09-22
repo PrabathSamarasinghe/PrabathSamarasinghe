@@ -1,172 +1,138 @@
-# 🌟 Hey there! I'm Prabath Samarasinghe
+<h1 align="center">Hi 👋, I'm Prabath Samarasinghe</h1>
+<h3 align="center">💻 Full Stack Developer | Problem Solver | Clean Code Enthusiast</h3>
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3F97F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Clean+Code+Enthusiast+%E2%9C%A8;Building+Amazing+Things+%F0%9F%9A%80)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
+<!-- Profile Badges - Responsive -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-bottom: 16px;">
+  <img src="https://komarev.com/ghpvc/?username=prabathsamarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/prabathsamarasinghe?tab=followers">
+    <img src="https://img.shields.io/github/followers/prabathsamarasinghe?style=social" alt="followers" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" alt="focus" />
+  <img src="https://img.shields.io/badge/Location-Sri%20Lanka-blue" alt="location" />
 </div>
 
----
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-### 🚀 About Me
-
-- 🔭 Currently crafting **innovative web solutions**
-- 🌱 Learning **advanced system architecture** 
-- 👯 Open to collaborate on **exciting projects**
-- 💬 Ask me about **React, Node.js, MongoDB, MySQL**
-- ⚡ Fun fact: **I debug with rubber ducks and lots of ☕**
-- 📫 Reach me: **prabhaths2001@gmail.com**
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 🎨 Frontend Magic
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend Power
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🗄️ Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🔧 Development Tools
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
+<!-- Light mode trophy - Responsive -->
+<div align="center" style="overflow-x: auto;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=prabathsamarasinghe&theme=flat&row=1&column=6&margin-w=15&margin-h=15" alt="trophies" style="max-width: 100%;" />
+  </a>
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
+<!-- About Me - Responsive -->
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=prabathsamarasinghe&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%"/>
+  <h3>About Me</h3>
+  <p>I'm a passionate full-stack developer with a focus on creating clean, efficient, and user-friendly applications.</p>
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 800px; margin: 0 auto;">
+    <div style="text-align: left;">
+      <ul>
+        <li>💬 Ask me about <strong>React, MongoDB, MySQL, Node, Express</strong></li>
+        <li>⚡ Fun fact: <strong>I debug with rubber ducks and excessive amounts of coffee</strong></li>
+      </ul>
+    </div>
+    <div style="text-align: left;">
+      <ul>
+        <li>📫 Email: <strong>prabhaths2001@gmail.com</strong></li>
+        <li>🌐 Portfolio: <a href="https://prabhath.pages.dev/"><strong>View</strong></a></li>
+      </ul>
+    </div>
+  </div>
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prabathsamarasinghe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabathsamarasinghe&layout=compact&langs_count=8&theme=algolia"/>
+<!-- Connect with me - Responsive -->
+<div align="center" style="margin: 20px 0;">
+  <h3>Let's Connect</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+    <a href="https://linkedin.com/in/prabaths-cse22" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.hackerrank.com/kpp_sahodarayo" target="_blank">
+      <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+    </a>
+    <a href="mailto:prabhaths2001@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </div>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabathsamarasinghe&theme=algolia" alt="prabathsamarasinghe" />
+<!-- Featured Projects - Responsive Grid -->
+<h3 align="center">Featured Projects</h3>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 1000px; margin: 0 auto;">
+  <div style="flex: 1; min-width: 300px; max-width: 450px; padding: 15px; border-radius: 8px; background: #f8f9fa; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <h4 align="center">🍃 Dewagiri Tea</h4>
+    <p align="center">Tea factory management system with comprehensive features for production tracking and inventory management.</p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+    </p>
+    <p align="center"><a href="https://github.com/PrabathSamarasinghe/Dewagiri-Tea.git">View Repository</a></p>
+  </div>
+  
+  <div style="flex: 1; min-width: 300px; max-width: 450px; padding: 15px; border-radius: 8px; background: #f8f9fa; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <h4 align="center">📊 NextSalesApp</h4>
+    <p align="center">Modern sales management application built with Next.js for efficient transaction tracking and reporting.</p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+    </p>
+    <p align="center"><a href="https://github.com/PrabathSamarasinghe/NextSalesApp.git">View Repository</a></p>
+  </div>
+</div>
+<!-- GitHub Stats - Responsive -->
+<h3 align="center">GitHub Stats</h3>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 0 auto; max-width: 900px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=prabathsamarasinghe&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" style="max-width: 100%; min-width: 300px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabathsamarasinghe&theme=default&hide_border=true" alt="GitHub Streak" style="max-width: 100%; min-width: 300px;" />
+</div>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabathsamarasinghe&layout=compact&theme=default&hide_border=true" alt="Top Languages" style="max-width: 100%; min-width: 300px;" />
 </div>
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🍃 Dewagiri Tea
-**Tea Factory Management System**
-- 📊 Production tracking & analytics
-- 📦 Inventory management
-- 👥 Employee management system
-- 📈 Real-time reporting dashboard
-
-**Tech Stack:** React • Node.js • MongoDB • Express
-
-[![Repo](https://img.shields.io/badge/Repository-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrabathSamarasinghe/Dewagiri-Tea.git)
-
-</td>
-<td width="50%">
-
-### 📊 NextSalesApp
-**Modern Sales Management**
-- 💰 Transaction tracking
-- 📈 Sales analytics & reports
-- 👤 Customer management
-- 📱 Responsive design
-
-**Tech Stack:** Next.js • TypeScript • Tailwind CSS
-
-[![Repo](https://img.shields.io/badge/Repository-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrabathSamarasinghe/NextSalesApp.git)
-
-</td>
-</tr>
-</table>
-
+<!-- Activity Graph - Responsive -->
+<h3 align="center">Contribution Overview</h3>
+<div align="center" style="overflow-x: auto;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabathsamarasinghe&theme=github-light&hide_border=true" alt="Activity Graph" style="max-width: 100%;" />
 </div>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prabathsamarasinghe&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true" width="100%"/>
+<!-- Skills & Technologies - Responsive -->
+<h3 align="center">Skills & Technologies</h3>
+<div align="center" style="max-width: 1000px; margin: 0 auto;">
+  <h4>Frontend Development</h4>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-bottom: 15px;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  </div>
+  
+  <h4>Backend Development</h4>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-bottom: 15px;">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  </div>
+  
+  <h4>Tools & Other Technologies</h4>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  </div>
 </div>
 
----
-
-## 🌐 Let's Connect!
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://prabhath.pages.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabaths-cse22)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabhaths2001@gmail.com)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kpp_sahodarayo)
-
-</div>
-
----
-
-## 📈 Profile Statistics
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=prabathsamarasinghe&label=Profile%20views&color=0e75b6&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/prabathsamarasinghe?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/prabathsamarasinghe?style=social)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
-
-### 🎯 Current Focus
-![Focus](https://img.shields.io/badge/🎯_Focus-Building_Scalable_Web_Apps-blue?style=for-the-badge)
-![Learning](https://img.shields.io/badge/🌱_Learning-System_Architecture-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/💼_Available_For-Freelance_Projects-orange?style=for-the-badge)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-**✨ Thanks for stopping by! Let's build something amazing together! ✨**
-
+<!-- Footer - Responsive -->
+<div align="center" style="margin-top: 30px;">
+  <h3>Thanks for visiting! 🙏</h3>
+  <p>Feel free to star ⭐ some of my repositories if you find them interesting!</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=100&section=footer" style="max-width: 100%;" />
 </div>
