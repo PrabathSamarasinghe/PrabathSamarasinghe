@@ -41,7 +41,6 @@
 Name    : Prabath Samarasinghe
 Role    : Full Stack Developer
 Degree  : BSc. Computer Science & Engineering — University of Moratuwa
-GPA     : 3.67 / 4.00
 Status  : Open to collaboration and exciting opportunities
 ```
 
